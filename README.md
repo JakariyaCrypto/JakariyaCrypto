@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakariyacrypto" alt="jakariyacrypto" /></a> </p>
 
-- 🌱 I’m currently learning **Livewir,Vue.js**
+- 🌱 I’m currently learning **Cloud Programing**
 
 - 📫 How to reach me **developerjk9356@gmail.com**
 
